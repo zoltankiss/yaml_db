@@ -48,3 +48,7 @@ Patches contributed by Michael Irwin, Tom Locke, and Tim Galeckas.
 
 Send questions, feedback, or patches to the Heroku mailing list: http://groups.google.com/group/heroku
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jetthoughts/yaml_db/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
