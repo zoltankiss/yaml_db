@@ -29,7 +29,7 @@ Gem::Specification.new do |s|
     "lib/csv_db.rb",
     "lib/serialization_helper.rb",
     "lib/tasks/yaml_db_tasks.rake",
-    "lib/yaml_db.rb",
+    "lib/yaml_db_improved.rb",
     "spec/base.rb",
     "spec/serialization_helper_base_spec.rb",
     "spec/serialization_helper_dump_spec.rb",
