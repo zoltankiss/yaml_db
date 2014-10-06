@@ -12,7 +12,7 @@ Any database that has an ActiveRecord adapter should work. For Rails 2, clone an
 
 Simply add to your Gemfile:
 
-    gem 'yaml_db_improved', '~> 1.0.0'
+    gem 'yaml_db_improved', '~> 1.0'
 
 All rake tasks will then be available to you.
 
